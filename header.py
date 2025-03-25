@@ -83,7 +83,7 @@ def Header():
       .nav-links .drop-menu{
         margin-top: -10px;
         margin-left: -10px !important;
-        width: 180px;
+        width: 200px;
         position: absolute;
         background: rgb(233, 193, 134);
         line-height: 20px;
@@ -100,6 +100,7 @@ def Header():
         text-align: center;
       }
       .drop-menu li a{
+        font-size: 15px;
         margin-left: -30px !important;
         display: block;
         padding: 0 0 0 15px;
@@ -258,8 +259,9 @@ def Header():
                 <input type="checkbox" id="showDrop">
                 <label for="showDrop" class="mobile-item">Projects</label>
                 <ul class="drop-menu">
-                  <li><a href="#">CSVEX</a></li>
-                  <li><a href="https://comingsoon.streamlit.app/">Unit Converter</a></li>
+                  <li><a href="https://csvex-byalishbah.streamlit.app/">">CSVEX</a></li>
+                  <li><a href="https://unitconverter-byalishbah.streamlit.app/">Unit Converter</a></li>
+                  <li><a href="https://comingsoon.streamlit.app/">Password Strength Meter</a></li>
                 </ul>
               </li>
               <div class="portfolio"><a href="https://alishbah-portfolio.vercel.app/">Portfolio</a></div>
