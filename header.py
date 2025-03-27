@@ -259,7 +259,7 @@ def Header():
                 <input type="checkbox" id="showDrop">
                 <label for="showDrop" class="mobile-item">Projects</label>
                 <ul class="drop-menu">
-                  <li><a href="https://csvex-byalishbah.streamlit.app/">">CSVEX</a></li>
+                  <li><a href="https://csvex-byalishbah.streamlit.app/">CSVEX</a></li>
                   <li><a href="https://unitconverter-byalishbah.streamlit.app/">Unit Converter</a></li>
                   <li><a href="https://comingsoon.streamlit.app/">Password Strength Meter</a></li>
                 </ul>
