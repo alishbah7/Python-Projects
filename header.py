@@ -261,7 +261,8 @@ def Header():
                 <ul class="drop-menu">
                   <li><a href="https://csvex-byalishbah.streamlit.app/">CSVEX</a></li>
                   <li><a href="https://unitconverter-byalishbah.streamlit.app/">Unit Converter</a></li>
-                  <li><a href="https://comingsoon.streamlit.app/">Password Strength Meter</a></li>
+                  <li><a href="https://password-strength-meter-byalishbah.streamlit.app/">Password Strength Meter</a></li>
+                  <li><a href="https://comingsoon.streamlit.app/">Library Manager</a></li>
                 </ul>
               </li>
               <div class="portfolio"><a href="https://alishbah-portfolio.vercel.app/">Portfolio</a></div>
